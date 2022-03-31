@@ -1,0 +1,20 @@
+﻿  AutoSprite.cpp
+  AvoidSprite.cpp
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\AvoidSprite.cpp(47,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  chaserSprite.cpp
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\chaserSprite.cpp(27,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\chaserSprite.cpp(28,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\chaserSprite.cpp(49,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\main.cpp(99,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\main.cpp(129,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\main.cpp(130,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\main.cpp(132,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\main.cpp(132,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\main.cpp(134,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\main.cpp(134,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\main.cpp(117,6): warning C4101: “i”: 未引用的局部变量
+  SpriteBase.cpp
+  UserSprite.cpp
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“C:\Users\Rich_King\source\repos\9.1 MySpriteGame\Debug\9.2 Sprite Game.exe”

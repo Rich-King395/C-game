@@ -1,0 +1,9 @@
+﻿  AvoidSprite.cpp
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\AvoidSprite.cpp(26,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\AvoidSprite.cpp(27,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Rich_King\source\repos\9.1 MySpriteGame\9.2 Sprite Game\AvoidSprite.cpp(47,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 73 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  9.2 Sprite Game.vcxproj -> C:\Users\Rich_King\source\repos\9.1 MySpriteGame\Release\9.2 Sprite Game.exe
